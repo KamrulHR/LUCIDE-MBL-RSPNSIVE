@@ -1,0 +1,92 @@
+@media(max-width:575px) and (min-width:320px){
+    .banner-cntnt{
+        text-align: center;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    .navbar-toggler{
+        color: #fff;
+        font-size: 24px;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+    }
+    .banner-part img {
+        padding: 0;
+        margin: 0;
+        position: absolute;
+        bottom: 0;
+        right: 0%;
+        width: 30%;
+    }
+    .banner-part h2 {
+        font-size: 35px;
+        margin: 13px 0;
+    }
+    .banner-part p {
+        margin-bottom: 41px;
+        font-size: 14px;
+    }
+    .align-item {
+        padding: 84px 0;
+        padding-top: 0px;
+    }
+    .hding-part ul{
+        margin-bottom: 30px;
+    }
+    .feature {
+        margin-top: 10px;
+    }
+    .feature p {
+        font-size: 15px;
+    }
+    .device-img img {
+        width: 55%;
+    }
+    .device-img {
+        text-align: center;
+    }
+    .Device h6 {
+        font-size: 11px;
+    }
+    .cntnt-hding h2 {
+        font-size: 29px;
+        margin: 5px 0;
+    }
+    .Device p {
+        margin: 10px 0;
+        font-size: 14px;
+    }
+    .customize p {
+        margin-top: 22px;
+        font-size: 14px;
+    }
+    .get h1, .what h2{
+        font-size: 25px;
+    }
+    .txt{
+        text-align: center;
+        margin-top: 10px;
+    }
+    .feature-btn {
+        margin-left: 0px;
+    }
+    .pricing-item {
+        margin-bottom: 30px;
+    }
+    form {
+        padding: 40px;
+        padding-bottom: 30px;
+        width: 100%;
+    }
+    .pricing {
+        padding-bottom: 10px;
+    }
+    .icon-part ul {
+        justify-content: center;
+    }
+    .prgrph-part{
+        text-align: center;
+    }
+}
